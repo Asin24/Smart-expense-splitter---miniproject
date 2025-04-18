@@ -1,0 +1,10 @@
+Expense Summary
+Total: ₹1350.00
+Per Person: ₹675.00
+
+Balances:
+Asha: owes ₹175.00
+Megha: gets ₹175.00
+
+Settlement Plan:
+Asha should pay ₹175.00 to Megha
